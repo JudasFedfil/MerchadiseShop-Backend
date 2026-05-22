@@ -1,6 +1,7 @@
 # MerchadiseShop - Backend (Spring Boot API)
 
 Hệ thống cung cấp dịch vụ RESTful API phục vụ cho ứng dụng thương mại điện tử bán mô hình, trang phục anime và Gunpla. Dự án được xây dựng dựa trên kiến trúc Spring Ecosystem giúp tối ưu hiệu năng và quản lý dữ liệu chặt chẽ.
+(Database dùng Laragon, chạy phpMyAdmin để chạy MySQL và quản lý db)
 
 ## 🛠️ Công Nghệ & Thư Viện Sử Dụng
 
